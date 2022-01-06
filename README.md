@@ -1,16 +1,19 @@
-### Hi there 👋
+### Evie (aka; EvieePy, Myst, Mysty)
 
-<!--
-**EvieePy/EvieePy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**She/Her - INTJ**
 
-Here are some ideas to get you started:
+I am a fulltime software engineer in Brisbane Qld.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like to read and listen to music.
+
+I am a Python Enthusiast and run a discord server dedeicsted to python.
+
+You can contact me at evieepy@gmail.com or om discord: EvieePy#0666
+
+
+
+
+
+
+
+
