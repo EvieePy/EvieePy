@@ -2,7 +2,7 @@
 
 **She/Her - INTJ**
 
-https://mysty.io/
+https://mysty.me/
 
 I am a fulltime software engineer in Brisbane Qld.
 I like to read and listen to music.
