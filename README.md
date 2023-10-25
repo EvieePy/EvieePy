@@ -1,19 +1,15 @@
-### Evie (aka; EvieePy, Myst, Mysty)
+### MystyPy
 
 **She/Her - INTJ**
 
 https://mysty.me/
 
-I am a fulltime software engineer in Brisbane Qld.
+I like to create thing xD.
+
 I like to read and listen to music.
+
 I am a Python Enthusiast and run a discord server dedicated to python.
 
-You can contact me at evieepy@gmail.com or on discord: EvieePy#0666
+**Contact:**
 
-
-
-
-
-
-
-
+You can contact me at evieepy@gmail.com or on discord: ``mystypy``
