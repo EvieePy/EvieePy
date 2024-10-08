@@ -1,14 +1,5 @@
-### MystyPy
-
-**She/Her**
-
-I like to create things.
-
-I like to read and listen to music.
-
-I am a Python Enthusiast and run a discord server dedicated to python.
-
+**Evie** - **She/Her**
+Australian based Software Engineer, specialising in anything Python, creating stuff...
 
 **Contact:**
-
-You can contact me at evieepy@gmail.com or on discord: ``mystypy``
+Email - `mysteapy@gmail.com`
