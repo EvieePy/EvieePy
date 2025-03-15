@@ -5,4 +5,4 @@ Australian based Software Engineer, specialising in anything Python, creating st
 
 **Contact:**
 
-Email - `mysteapy@gmail.com`
+Email - `mystypie@gmail.com`
